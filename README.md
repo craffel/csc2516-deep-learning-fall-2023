@@ -8,7 +8,7 @@ Term: Fall 2023
 
 Lectures: Wednesdays, 9-11am in AH400 (Muzzo Family Alumni Hall)
 
-Tutorials: Thursdays, 12-1pm
+Tutorials: Thursdays, 12-1pm in AH400
 
 Deep learning is the branch of machine learning focused on training neural networks.
 Neural networks have proven to be powerful across a wide range of domains and tasks, including computer vision, natural language processing, speech recognition, and beyond.
