@@ -4,6 +4,10 @@ Instructor: [Colin Raffel](mailto:craffel@gmail.com)
 
 TAs: [Micaela Consens](mailto:micaela.consens@mail.utoronto.ca), [Amanjit Singh Kainth](mailto:amanjitsk@cs.toronto.edu), [Matin Moezzi](mailto:matin.moezzi@mail.utoronto.ca), [Mustafa Ammous](mailto:mustafa.ammous@mail.utoronto.ca), and [Rupert Wu](mailto:rupert.wu@mail.utoronto.ca)
 
+Quercus: https://q.utoronto.ca/courses/327324
+
+Piazza: Link in Quercus
+
 Term: Fall 2023
 
 Lectures: Wednesdays, 9-11am in AH400 (Muzzo Family Alumni Hall)
