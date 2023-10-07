@@ -44,8 +44,8 @@ Tutorials will more directly cover the background and tools needed for each home
 | 9/27  | Under/overfitting, regularization, multilayer perceptrons                      | 3.6-3.7, 5.1-5.2, 5.6       | H2 due, H3 assigned  |
 | 10/4  | Backpropagation, numerical stability, automatic differentiation                | 5.3-5.4                     | H3 due, H4 assigned  |
 | 10/11 | Convolutional neural networks, batch/layer normalization, residual connections | 7.1-7.5, 8.5-8.6            | H4 due, H5 assigned  |
-| 10/18 | Midterm                                                                        |                             |                      |
-| 10/25 | Sequences, recurrent neural networks, and sequence-to-sequence learning        | 9.1-9.7, 10.1-10.8          | H5 due, H6 assigned  |
+| 10/18 | Sequences, recurrent neural networks, and sequence-to-sequence learning        | 9.1-9.7, 10.1-10.8          | H5 due, H6 assigned  |
+| 10/25 | Midterm                                                                        |                             |                      |
 | 11/1  | Attention                                                                      | 11.1-11.6                   | H6 due, H7 assigned  |
 | 11/8  | No class - fall reading week                                                   | —                           |                      |
 | 11/15 | Transformers part 1                                                            | 11.7, 15.8-15.10            | H7 due, H8 assigned  |
